@@ -120,7 +120,7 @@ public class Turtle extends SimpleTurtle
 	  public static void main(String[] args){
 	    //Question1();
 	    //Question2();
-		//h2_1();
+		h2_1();
 	  
 	    
 	    
